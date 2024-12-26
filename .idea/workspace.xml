@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46d00ab-3ce7-4a0e-a63e-a1fc96c72694" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_data/bootcamps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/courses.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/reviews.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/bootcamps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/errorResponse.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.env" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Bootcamp.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
@@ -85,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734995367081</updated>
-      <workItem from="1734995368176" duration="22282000" />
+      <workItem from="1734995368176" duration="31168000" />
     </task>
     <servers />
   </component>
